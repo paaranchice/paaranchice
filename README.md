@@ -4,9 +4,9 @@
 [![API Access](https://img.shields.io/badge/API-RESTful%20&%20SDKs-green?style=for-the-badge)](https://nanaimg.app/pricing)
 [![License: Commercial](https://img.shields.io/badge/License-Commercial_Use_Allowed-success?style=for-the-badge)](#)
 
-Welcome to **[nana img](https://nanaimg.app/)** — your next-generation professional AI image creation workbench. We are dedicated to providing creators, designers, and developers worldwide with the fastest, highest-quality **[AI image generation services](https://nanaimg.app/ai-image-generator)**.
+Welcome to **[nana img](https://nanaimg.app/)** — your next-generation professional AI image creation workbench. We are dedicated to providing creators, designers, and developers worldwide with the fastest, highest-quality **[AI image generation services](https://nanaimg.app/ai-image-generator)**. Whether you are looking for a reliable **[nano banana 2 ai image generator](https://nanaimg.app/)** or a comprehensive design suite, nana img has you covered.
 
-By integrating the industry-leading **Nano Banana 2 AI model** (powered by the robust Gemini 2.0 Flash architecture) alongside multiple top-tier AI models, nana img allows you to transform text prompts into 4K studio-quality visual masterpieces in seconds.
+By integrating the industry-leading **[nano banana 2 ai](https://nanaimg.app/)** model (powered by the robust Gemini 2.0 Flash architecture) alongside multiple top-tier AI models, nana img allows you to transform text prompts into 4K studio-quality visual masterpieces in seconds.
 
 👉 **[Try the Free Nano Banana 2 AI Image Generator Now](https://nanaimg.app/ai-image-generator)**
 
@@ -55,7 +55,7 @@ By setting the `model` parameter to `nano-banana-2-pro` in your API request, you
 
 ## 💳 Simple & Transparent Pricing
 
-Start free and scale as you grow—no hidden fees. Choose from monthly/annual subscriptions or never-expiring credit packs.
+Finding the right **[nano banana 2 pricing](https://nanaimg.app/)** shouldn't be complicated. Start free and scale as you grow—no hidden fees. Choose from monthly/annual subscriptions or never-expiring credit packs.
 
 * **🌱 Starter**: $8.25/mo (billed annually) - Great for casual creators. Includes 8,640 credits/year.
 * **🚀 Creator**: $20.75/mo (billed annually) - **Most Popular**. Includes 28,800 credits/year, best for active creators needing 4K output.
@@ -69,7 +69,7 @@ View full pricing and features: **[nana img Pricing Plans](https://nanaimg.app/p
 ### ❓ Frequently Asked Questions (FAQ)
 
 **Q: What is Nano Banana 2?**
-A: Nano Banana 2 is a next-generation AI image model powered by Google's Gemini 2.0 Flash architecture. It offers significant improvements in text rendering accuracy, prompt adherence, and photorealistic quality compared to previous generations.
+A: Nano Banana 2 (also frequently searched globally as **[nano banana 2 ia](https://nanaimg.app/)**) is a next-generation AI image model powered by Google's Gemini 2.0 Flash architecture. It offers significant improvements in text rendering accuracy, prompt adherence, and photorealistic quality compared to previous generations.
 
 **Q: How do I generate a 1280x700 image?**
 A: Select a custom aspect ratio close to 16:9 in the resolution settings, then set the output width to 1280. The AI will automatically calculate the matching height, or you can crop/resize it later using our built-in editor.
