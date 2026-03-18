@@ -1,16 +1,18 @@
-## Hi there 👋
+﻿# Hi, I'm paaranchice
 
-<!--
-**paaranchice/paaranchice** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build SEO-first AI products and web tools.
 
-Here are some ideas to get you started:
+## Featured Project
+- [nanaimg.app](https://nanaimg.app) - AI image creation platform powered by Nano Banana 2 for text-to-image, image-to-image, and 2K/4K high-resolution generation.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Website
+[Visit nanaimg.app](https://nanaimg.app)
+
+## Focus
+- AI image generation
+- image editing workflows
+- SEO-driven web products
+- creative automation
+
+## Stack
+Next.js · TypeScript · Go · PostgreSQL · Cloudflare
